@@ -127,6 +127,11 @@
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2b0680"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -149,18 +154,32 @@
           },
           "title": "مرحبا بك في صفحة Game_hacker",
           "text": "&nbsp; اول لازم تحمل تطبيق المساعد لتحمل التطبيقات من الموقع الموقع يتحدث يوميا والروابط &nbsp;اذا ماتعرف تحمل من الموقع &nbsp; بس اضغط على كلمة Download اذا ماشفتها اضغط على اسم التطبيق فوائد تطبيقات بلس تقدر تحمل الصور والفيديوهات",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\" http://adf.ly/1m6wfu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Tutuhelper   هذا المساعد</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#2b0680"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\" http://adf.ly/1m6wfu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Tutuhelper   هذا المساعد</a> "
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle SPAN": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "features1-2",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -272,26 +291,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle SPAN": {
-              "font-size": "20px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#000000",
-              "font-size": "20px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "20px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_name": "footer1",
@@ -315,6 +315,15 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
           "_anchor": "features1-3",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -426,7 +435,13 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
@@ -435,13 +450,7 @@
               "color": "#ffffff",
               "font-size": "20px"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
+          },
           "_anchor": "features1-4",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -553,22 +562,18 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features1-5",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -627,7 +632,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"http://microify.com/KBy\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/unnamed-1-600x6006.png",
+              "src": "@PROJECT_PATH@/assets/images/unnamed-1-600x6000.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -680,18 +685,22 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          },
           "_anchor": "features1-6",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -803,22 +812,21 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#000000",
-              "font-size": "20px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "features1-7",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -930,15 +938,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "font-size": "20px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     }
